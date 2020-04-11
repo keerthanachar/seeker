@@ -33,7 +33,7 @@ def banner():
  \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
-	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
+	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'Karavali Studio')
 	print ('\n' + G + '[>]' + C + ' Edited By : ' + W + 'CB'+'\n')
 	print (G + '[>]' + C + ' Version    : ' + W + ver + '\n')
 
